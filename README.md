@@ -12,7 +12,7 @@ This project helped me understand:
 - HTML5
 
 ## How to View
-You can view the project by cloning the repository and opening the (index.htl) file in any web browser.
+You can view the project by cloning the repository and opening the (index.html) file in any web browser.
 
 ## Contributing
 As this is a learning project, I am not accepting contributions, but feel free to fork the repository if you would likr to use as a reference for your own learning journey.
